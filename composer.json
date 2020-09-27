@@ -1,0 +1,21 @@
+{
+    "name": "nihaoajys/think-databackup",
+    "description": "databackup package for thinkphp",
+    "authors": [
+        {
+            "name": "nihaoajys",
+            "email": "380334271@qq.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {
+        "topthink/framework": "^6.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\databackup\\": "src/"
+        } 
+    }
+    
+}
+
